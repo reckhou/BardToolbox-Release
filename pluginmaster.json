@@ -3,7 +3,7 @@
     "Author": "BardToolbox",
     "Name": "BardToolbox",
     "InternalName": "BardToolbox",
-    "AssemblyVersion": "2.2.5.1",
+    "AssemblyVersion": "2.2.5.2",
     "Description": "",
     "ApplicableVersion": "any",
     "RepoUrl": "https://discord.gg/h9Nt5NXZWz",
@@ -72,7 +72,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 62310,
-    "LastUpdate": "1777493595",
+    "LastUpdate": "1777519528",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/latest.zip"
