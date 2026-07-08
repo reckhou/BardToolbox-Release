@@ -2,7 +2,7 @@
 
 `Bard Toolbox` is an all-in-one FFXIV Dalamud plugin for bards and bands, providing all the essential functions that people would need every day.
 
-**Please join our [Discord Server](https://discord.gg/h9Nt5NXZWz)!**
+**Please join our [Discord Server](https://discord.gg/xvNhquhnVT)!**
 
 **Support me on Ko-Fi:**
 
