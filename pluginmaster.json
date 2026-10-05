@@ -3,7 +3,7 @@
     "Author": "BardToolbox",
     "Name": "BardToolbox",
     "InternalName": "BardToolbox",
-    "AssemblyVersion": "2.2.7.0",
+    "AssemblyVersion": "3.0.1.0",
     "Description": "",
     "ApplicableVersion": "any",
     "RepoUrl": "https://discord.gg/h9Nt5NXZWz",
@@ -67,16 +67,14 @@
     "LoadPriority": 0,
     "IconUrl": "https://i.imgur.com/5BsJD3g.png",
     "Punchline": "An all-in-one toolbox, providing all the essentials bards & bands would need every day.\nSPECIAL THANKS to MidiBard and FFXIV Bards & Bands Community. Join: discord.gg/ff14bard",
-    "Changelog": "Update for Dawntrail 7.5, Dalamud API 15 Update\n\nThanks for your support!",
+    "Changelog": "Integrated Macrology into BardToolbox as a full modern UI category. The Macrology Quick Bar can now be embedded in the BTB Quick Controller or opened as its own pop-out window. Added an optional broadcast mode that compiles and sends a macro to every connected local BTB client, including parameter values, submacros, breakpoints, run mode, and safety settings. Added /mmbroadcast for explicit all-client runs and one-time import of an existing standalone Macrology configuration.\n\nDalamud API 15.",
     "AcceptsFeedback": false,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 62310,
-    "LastUpdate": "1780454751",
+    "LastUpdate": "1783473938",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/latest.zip",
-    "TestingAssemblyVersion": "3.0.0.11",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/testing.zip",
-    "TestingDalamudApiLevel": "15"
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/latest.zip"
   }
 ]
